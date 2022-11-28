@@ -37,7 +37,7 @@ const cod = [
     </div>
     <div>
       <nuxt-img 
-        src="/logo.png"
+        src="/test.jpeg"
         sizes="sm:100vw md:80vw lg:50vw"
         loading="lazy"
         format="webp"
